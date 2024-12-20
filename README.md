@@ -41,4 +41,4 @@ This JavaScript file contains the game logic, including drawing the ball, paddle
 
 ## License
 
-This project is licensed under the Apache License. See the `LICENSE.txt` file for details.
+This project is licensed under the Apache License. See the [LICENSE](https://github.com/ztc0/clone_Pong/blob/main/LICENSE) file for details.
